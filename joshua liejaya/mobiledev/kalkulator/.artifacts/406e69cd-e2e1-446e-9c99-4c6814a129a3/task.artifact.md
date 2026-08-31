@@ -1,0 +1,4 @@
+- [x] Remove `kotlin-android` plugin from `app/build.gradle.kts`
+- [x] Remove `kotlinOptions` block from `app/build.gradle.kts`
+- [x] Run Gradle Sync to verify the fix
+- [x] Run `./gradlew assembleDebug` to ensure compilation success
